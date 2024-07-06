@@ -1,4 +1,4 @@
-# Diff-Reg V1: Diffusion Matching Model for Registration Problem
+# Diff-Reg: Diffusion Model in Doubly Stochastic Matrix Space for Registration Problem
 
 PyTorch implementation of the paper:
 
