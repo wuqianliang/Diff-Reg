@@ -4,8 +4,6 @@
   <h3><a href="https://arxiv.org/pdf/2403.19919">arXiv</a></h3>
 </div>
 
-## News
-
 ## Installation
 
 ## Pre-trained Weights
