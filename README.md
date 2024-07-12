@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <h1>Diff-Reg: Diffusion Model in Doubly Stochastic Matrix Space for Registration Problem (ECCV 2024)</h1>
+  <h1>Diff-Reg: Diffusion Model in Doubly Stochastic Matrix Space for Registration Problem (ECCV 2024)<a href="https://arxiv.org/pdf/2403.19919">arXiv</a></h1>
   <h3><a href="https://arxiv.org/pdf/2403.19919">arXiv</a></h3>
 </div>
 
