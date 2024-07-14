@@ -3,8 +3,6 @@
 </div>
 
 ## Installation
-3DMatch/4DMatch
-cd cpp_wrappers; sh compile_wrappers.sh
 
 ## Pre-trained Weights
 
@@ -13,9 +11,10 @@ cd cpp_wrappers; sh compile_wrappers.sh
 ## Training
 
 ## Results
+We produce results on the GPU RTX 3090. 
 
 ## :hearts: Acknowledgement
-We thank [Lepard](https://github.com/rabbityl/lepard) and [2D3D-MATR](https://github.com/minhaolee/2D3DMATR) for their opensource code.
+We thank [Lepard](https://github.com/rabbityl/lepard) and [2D3D-MATR](https://github.com/minhaolee/2D3DMATR) for their open source code.
 
 ## :black_nib: Citation
 
