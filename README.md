@@ -14,11 +14,16 @@ cd cpp_wrappers; sh compile_wrappers.sh
 
 ## Results
 
-## Citation
+## :black_nib: Citation
+
+If you find our work helpful for your research, please consider citing the following BibTeX entry.   
+
+```bibtex
 @article{wu2024diff,
   title={Diff-Reg v1: Diffusion Matching Model for Registration Problem},
   author={Wu, Qianliang and Jiang, Haobo and Luo, Lei and Li, Jun and Ding, Yaqing and Xie, Jin and Yang, Jian},
   journal={arXiv preprint arXiv:2403.19919},
   year={2024}
 }
+
 ## Acknowledgements
