@@ -3,6 +3,8 @@
 </div>
 
 ## Installation
+3DMatch/4DMatch
+cd cpp_wrappers; sh compile_wrappers.sh
 
 ## Pre-trained Weights
 
