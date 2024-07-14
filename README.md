@@ -25,5 +25,7 @@ If you find our work helpful for your research, please consider citing the follo
   journal={arXiv preprint arXiv:2403.19919},
   year={2024}
 }
+}
 
-## Acknowledgements
+## :hearts: Acknowledgement
+ We thank [Lepard]() and [2D3D-MDTR]() for their opensource code.
