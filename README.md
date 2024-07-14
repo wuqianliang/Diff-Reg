@@ -14,6 +14,9 @@ cd cpp_wrappers; sh compile_wrappers.sh
 
 ## Results
 
+## :hearts: Acknowledgement
+We thank [Lepard]() and [2D3D-MDTR]() for their opensource code.
+
 ## :black_nib: Citation
 
 If you find our work helpful for your research, please consider citing the following BibTeX entry.   
@@ -27,5 +30,4 @@ If you find our work helpful for your research, please consider citing the follo
 }
 
 
-## :hearts: Acknowledgement
-We thank [Lepard]() and [2D3D-MDTR]() for their opensource code.
+
