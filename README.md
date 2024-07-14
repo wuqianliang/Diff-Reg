@@ -15,7 +15,7 @@ cd cpp_wrappers; sh compile_wrappers.sh
 ## Results
 
 ## :hearts: Acknowledgement
-We thank [Lepard]() and [2D3D-MDTR]() for their opensource code.
+We thank [Lepard](https://github.com/rabbityl/lepard) and [2D3D-MATR](https://github.com/minhaolee/2D3DMATR) for their opensource code.
 
 ## :black_nib: Citation
 
