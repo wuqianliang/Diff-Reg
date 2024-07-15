@@ -5,7 +5,7 @@
 ## Installation
 
 ## Pre-trained Weights
-Please look at the release page for the pre-trained model of three experiment weights and the missing [DepthAny v1](https://github.com/LiheYoung/Depth-Anything) package.
+Please look at the release page for the pre-trained model weights of three experiments and the missing [DepthAny v1](https://github.com/LiheYoung/Depth-Anything) package.
 
 ## Data Preparation
 Please refer to [Lepard](https://github.com/rabbityl/lepard) and [2D3D-MATR](https://github.com/minhaolee/2D3DMATR) for data preparattion.
@@ -15,7 +15,7 @@ Please refer to [Lepard](https://github.com/rabbityl/lepard) and [2D3D-MATR](htt
 
 
 ## :hearts: Acknowledgement
-We thank [Lepard](https://github.com/rabbityl/lepard),[2D3D-MATR](https://github.com/minhaolee/2D3DMATR), [GeoTR](https://github.com/qinzheng93/GeoTransformer),[RoITR](https://github.com/haoyu94/RoITr),[GraphSCNet](https://github.com/qinzheng93/GraphSCNet), and [Vision3D](https://github.com/qinzheng93/vision3d) for their open source code.
+We thank the respective authors of [Lepard](https://github.com/rabbityl/lepard),[2D3D-MATR](https://github.com/minhaolee/2D3DMATR), [GeoTR](https://github.com/qinzheng93/GeoTransformer),[RoITR](https://github.com/haoyu94/RoITr),[GraphSCNet](https://github.com/qinzheng93/GraphSCNet), and [Vision3D](https://github.com/qinzheng93/vision3d) for their open source code.
 
 ## Citation
 
