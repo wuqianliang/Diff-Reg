@@ -2,13 +2,16 @@
   <h2>Diff-Reg: Diffusion Model in Doubly Stochastic Matrix Space for Registration Problem [ECCV2024] [<a href="https://arxiv.org/pdf/2403.19919">arxiv Paper</a>]</h2>
 </div>
 
-## Installation
+👀 If you have any questions, please let me know~
 
 ## Pre-trained Weights
 Please look at the release page for the pre-trained model weights of three experiments and the missing [DepthAny v1](https://github.com/LiheYoung/Depth-Anything) package.
 
-## Data Preparation
-Please refer to [Lepard](https://github.com/rabbityl/lepard) and [2D3D-MATR](https://github.com/minhaolee/2D3DMATR) for data preparattion.
+## Installation and Data Preparation
+Please refer to [Lepard](https://github.com/rabbityl/lepard) and [2D3D-MATR](https://github.com/minhaolee/2D3DMATR).
+
+Our 2D3D registration code  is based on [2D3D-MATR](https://github.com/minhaolee/2D3DMATR), and 3d registration code is based on [Lepard](https://github.com/rabbityl/lepard).
+
 ## Training
 
 ## Results
