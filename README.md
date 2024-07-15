@@ -5,7 +5,7 @@
 👀 If you have any questions, please let me know~
 
 ## Pre-trained Weights
-Please look at the release page for the pre-trained model weights of three experiments and the missing [DepthAny v1](https://github.com/LiheYoung/Depth-Anything) package.
+Please look at the release page for the pre-trained model weights of three experiments.
 
 ## Installation and Data Preparation
 Please refer to [Lepard](https://github.com/rabbityl/lepard) and [2D3D-MATR](https://github.com/minhaolee/2D3DMATR).
