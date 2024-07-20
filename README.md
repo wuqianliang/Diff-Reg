@@ -28,7 +28,7 @@ Please consider citing the following BibTeX entry if you find our work helpful f
 @article{wu2024diff,
   title={Diff-Reg v1: Diffusion Matching Model for Registration Problem},
   author={Wu, Qianliang and Jiang, Haobo and Luo, Lei and Li, Jun and Ding, Yaqing and Xie, Jin and Yang, Jian},
-  journal={arXiv preprint arXiv:2403.19919v2},
+  journal={arXiv preprint arXiv:2403.19919},
   year={2024}
 }
 
