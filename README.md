@@ -4,15 +4,15 @@
 
 👀 If you have any questions, please let me (wuqianliang@njust.edu.cn) know~
 
+## Installation
+
+**1. Please use the NVIDIA RTX3090 GPU.
+**2. Utilize the 'Diff-Reg-2d3d/eccv24_2d3d_env.yml', 'Diff-Reg-3dmatch/eccv24_3d_env.yml', 'Diff-Reg-4dmatch/eccv24_4d_env.yml' to install environments.
+
 ## Pre-trained Weights
 
 Please look at the [release](https://github.com/wuqianliang/Diff-Reg/releases/tag/DiffRegv1) page for the pre-trained model weights of three experiments.
 
-## Installation
-
-1. Please use the NVIDIA <span style="color:red">RTX3090</span> GPU.
-2. <span style="color:red">Utilize the 'Diff-Reg-2d3d/eccv24_2d3d_env.yml', 'Diff-Reg-3dmatch/eccv24_3d_env.yml', 'Diff-Reg-4dmatch/eccv24_4d_env.yml' to install environments</span>.
-   
 ## Data Preparation && Training
 
 Our 2D3D registration code is mainly based on [2D3D-MATR](https://github.com/minhaolee/2D3DMATR), and our 3d registration code is based on [Lepard](https://github.com/rabbityl/lepard). Please refer to [Lepard](https://github.com/rabbityl/lepard) and [2D3D-MATR](https://github.com/minhaolee/2D3DMATR).
