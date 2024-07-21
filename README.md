@@ -13,17 +13,12 @@ Please look at the [release](https://github.com/wuqianliang/Diff-Reg/releases/ta
 1. Please use the NVIDIA RTX3090 GPU.
 2. Utilize the 'Diff-Reg-2d3d/eccv24_2d3d_env.yml', 'Diff-Reg-3dmatch/eccv24_3d_env.yml', 'Diff-Reg-4dmatch/eccv24_4d_env.yml' to install environments.
    
-## Data Preparation
-Please refer to [Lepard](https://github.com/rabbityl/lepard) and [2D3D-MATR](https://github.com/minhaolee/2D3DMATR).
+## Data Preparation && Training
 
-## Training
-
-## Results
+Our 2D3D registration code is mainly based on [2D3D-MATR](https://github.com/minhaolee/2D3DMATR), and our 3d registration code is based on [Lepard](https://github.com/rabbityl/lepard). Please refer to [Lepard](https://github.com/rabbityl/lepard) and [2D3D-MATR](https://github.com/minhaolee/2D3DMATR).
 
 
 ## :hearts: Acknowledgement
-
-Our 2D3D registration code is mainly based on [2D3D-MATR](https://github.com/minhaolee/2D3DMATR), and 3d registration code is based on [Lepard](https://github.com/rabbityl/lepard).
 
 We thank the respective authors of [Lepard](https://github.com/rabbityl/lepard),[2D3D-MATR](https://github.com/minhaolee/2D3DMATR), [GeoTR](https://github.com/qinzheng93/GeoTransformer),[RoITR](https://github.com/haoyu94/RoITr),[GraphSCNet](https://github.com/qinzheng93/GraphSCNet), and [Vision3D](https://github.com/qinzheng93/vision3d) for their open source code.
 
