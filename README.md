@@ -5,9 +5,9 @@
 👀 If you have any questions, please let me (wuqianliang@njust.edu.cn) know~
 
 ## Installation
+`1. Please use the NVIDIA RTX3090 GPU !! `
 
-**1. Please use the NVIDIA RTX3090 GPU.
-**2. Utilize the 'Diff-Reg-2d3d/eccv24_2d3d_env.yml', 'Diff-Reg-3dmatch/eccv24_3d_env.yml', 'Diff-Reg-4dmatch/eccv24_4d_env.yml' to install environments.
+`2. Utilize the 'Diff-Reg-2d3d/eccv24_2d3d_env.yml', 'Diff-Reg-3dmatch/eccv24_3d_env.yml', 'Diff-Reg-4dmatch/eccv24_4d_env.yml' to install environments.`
 
 ## Pre-trained Weights
 
