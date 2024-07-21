@@ -10,8 +10,8 @@ Please look at the [release](https://github.com/wuqianliang/Diff-Reg/releases/ta
 
 ## Installation
 
-1. Please use the NVIDIA RTX3090 GPU.
-2. Utilize the 'Diff-Reg-2d3d/eccv24_2d3d_env.yml', 'Diff-Reg-3dmatch/eccv24_3d_env.yml', 'Diff-Reg-4dmatch/eccv24_4d_env.yml' to install environments.
+1. Please use the NVIDIA <span style="color:red">RTX3090</span> GPU.
+2. <span style="color:red">Utilize the 'Diff-Reg-2d3d/eccv24_2d3d_env.yml', 'Diff-Reg-3dmatch/eccv24_3d_env.yml', 'Diff-Reg-4dmatch/eccv24_4d_env.yml' to install environments</span>.
    
 ## Data Preparation && Training
 
