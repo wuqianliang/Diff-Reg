@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <h2>[ECCV2024] Diff-Reg: Diffusion Model in Doubly Stochastic Matrix Space for Registration Problem [<a href="https://arxiv.org/pdf/2403.19919">Arxiv</a>|<a href="https://arxiv.org/pdf/2403.19919">ECCV(Todo)</a>]</h2>
+  <h2>[ECCV2024] Diff-Reg: Diffusion Model in Doubly Stochastic Matrix Space for Registration Problem [<a href="https://arxiv.org/pdf/2403.19919">Arxiv</a>|<a href="">ECCV(Todo)</a>]</h2>
 </div>
 
 👀 If you have any questions, please let me (wuqianliang@njust.edu.cn) know~
