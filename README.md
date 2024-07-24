@@ -7,7 +7,7 @@
 ## Installation
 `1. Please use the NVIDIA TITAN RTX or NVIDIA GeForce RTX 3090 GPU !! `
 
-`2. Utilize the 'Diff-Reg-2d3d/eccv24_2d3d_env.yml', 'Diff-Reg-3dmatch/eccv24_3d_env.yml', 'Diff-Reg-4dmatch/eccv24_4d_env.yml' to install environments.`
+`2. Please utilize commands 'conda env create -f Diff-Reg-2d3d/eccv24_2d3d_env.yml', 'conda env create -f  Diff-Reg-3dmatch/eccv24_3d_env.yml', and 'conda env create -f Diff-Reg-4dmatch/eccv24_4d_env.yml' to install environments for three tasks.`
 
 ## Pre-trained Weights
 
