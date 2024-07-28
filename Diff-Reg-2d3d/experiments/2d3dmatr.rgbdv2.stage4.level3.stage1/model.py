@@ -7,7 +7,7 @@ from pytorch3d.ops.perspective_n_points import efficient_pnp
 import numpy as np
 from vision3d.ops import apply_transform, pairwise_distance
 from vision3d.utils.opencv import registration_with_pnp_ransac
-from vision3d.models.geotransformer import SuperPointMatchingMutualTopk, SuperPointProposalGenerator, SuperPointMatchingDenoising
+from vision3d.models.geotransformer import SuperPointProposalGenerator
 from vision3d.ops import (
     back_project,
     batch_mutual_topk_select,

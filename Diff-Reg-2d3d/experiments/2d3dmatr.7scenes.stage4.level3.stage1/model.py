@@ -7,7 +7,7 @@ from pytorch3d.ops.perspective_n_points import efficient_pnp
 import numpy as np
 from vision3d.ops import apply_transform, pairwise_distance
 from vision3d.utils.opencv import registration_with_pnp_ransac
-from vision3d.models.geotransformer import SuperPointMatchingMutualTopk, SuperPointProposalGenerator, SuperPointMatchingDenoising
+from vision3d.models.geotransformer import  SuperPointProposalGenerator
 from vision3d.ops import (
     back_project,
     batch_mutual_topk_select,
@@ -47,12 +47,7 @@ from depth_anything.util.transform import Resize, NormalizeImage, PrepareForNet
 
 from utils import  multual_nn_correspondence, to_o3d_pcd, to_tsfm, get_correspondences
 from vision3d.ops.metrics import compute_isotropic_transform_error
-from vision3d.array_ops import (
-    evaluate_correspondences,
-    evaluate_sparse_correspondences,
-    isotropic_registration_error,
-    registration_rmse,
-)
+
 import open3d as o3d
 from sklearn.neighbors import KDTree
 
