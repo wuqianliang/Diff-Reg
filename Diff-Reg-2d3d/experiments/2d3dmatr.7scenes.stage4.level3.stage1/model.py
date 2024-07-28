@@ -3,7 +3,7 @@ import time as time_lib
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from pytorch3d.ops.perspective_n_points import efficient_pnp
+
 import numpy as np
 from vision3d.ops import apply_transform, pairwise_distance
 from vision3d.utils.opencv import registration_with_pnp_ransac
