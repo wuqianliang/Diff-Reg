@@ -183,7 +183,8 @@ class Trainer(object):
                 for key, _ in loss_info.items():
                     stats_meter[key] = AverageMeter()
             for key, value in loss_info.items():
-                stats_meter[key].update(value)
+                #stats_meter[key].update(value)
+                stats_meter[key].update(value.detach().cpu())
 
             if phase == 'train' :
                 if (c_iter + 1) % self.verbose_freq == 0 and self.verbose  :
