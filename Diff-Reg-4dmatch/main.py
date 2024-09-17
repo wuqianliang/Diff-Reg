@@ -26,7 +26,7 @@ if __name__ == '__main__':
     # load configs
     parser = argparse.ArgumentParser()
     parser.add_argument('--config', type=str, default='configs/test/4dmatch.yaml', help= 'Path to the config file.')
-    parser.add_argument('--thr', type=float, default=0.5)
+    parser.add_argument('--thr', type=float, default=0.55)
 
     args = parser.parse_args()
     with open(args.config,'r') as f:
