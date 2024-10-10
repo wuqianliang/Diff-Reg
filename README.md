@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <h2>[ECCV2024] Diff-Reg: Diffusion Model in Doubly Stochastic Matrix Space for Registration Problem [<a href="https://arxiv.org/pdf/2403.19919">Arxiv</a>|<a href="">ECCV(Todo)</a>]</h2>
+  <h2>[ECCV2024] Diff-Reg: Diffusion Model in Doubly Stochastic Matrix Space for Registration Problem [<a href="https://arxiv.org/pdf/2403.19919">Arxiv</a>|<a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08193.pdf">ECCV2024</a>]</h2>
 </div>
 
 👀 If you have any questions, please let me (wuqianliang@njust.edu.cn) know~
@@ -17,6 +17,16 @@ Please look at the [release](https://github.com/wuqianliang/Diff-Reg/releases/ta
 
 Our 2D3D registration code is mainly based on [2D3D-MATR](https://github.com/minhaolee/2D3DMATR), and our 3d registration code is based on [Lepard](https://github.com/rabbityl/lepard). Please refer to [Lepard](https://github.com/rabbityl/lepard) and [2D3D-MATR](https://github.com/minhaolee/2D3DMATR).
 
+## Inference
+For 3DMatch and 4DMatch:
+
+`python main.py --config configs/test/3dmatch.yaml --thr=0.5  # test_epoch=12`
+
+`python main.py --config configs/test/4dmatch.yaml --thr=0.55 # test_epoch=22`
+
+For 2D-3D registration:
+
+`cd experiments/2d3dmatr.rgbdv2.stage4.level3.stage1; sh eval.sh 26`
 
 ## :hearts: Acknowledgement
 
