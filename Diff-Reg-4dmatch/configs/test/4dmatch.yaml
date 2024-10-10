@@ -81,7 +81,7 @@ verbose: True
 verbose_freq: 1000
 do_valid: True
 do_test: True
-pretrain: 'snapshot/4dmatch-final/rotary_entangled_False/checkpoints/model_16.pth'
+pretrain: 'snapshot/4dmatch-final/rotary_entangled_False/checkpoints/model_22.pth'
 
 
 
