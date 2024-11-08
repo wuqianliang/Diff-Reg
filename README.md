@@ -20,7 +20,7 @@ Our 2D3D registration code is mainly based on [2D3D-MATR](https://github.com/min
 ## Inference
 For 3DMatch and 4DMatch:
 
-`python main.py --config configs/test/3dmatch.yaml --thr=0.5  # test_epoch=12`
+`python main.py --config configs/test/3dmatch.yaml  # test_epoch=12`
 
 `python main.py --config configs/test/4dmatch.yaml --thr=0.55 # test_epoch=22`
 
