@@ -20,13 +20,13 @@ Our 2D3D registration code is mainly based on [2D3D-MATR](https://github.com/min
 ## Inference
 For 3DMatch and 4DMatch:
 
-`python main.py --config configs/test/3dmatch.yaml`
+`python main.py --config configs/test/3dmatch.yaml --test_epoch=$epoch`
 
-`python main.py --config configs/test/4dmatch.yaml --thr=0.55 # test_epoch=22`
+`python main.py --config configs/test/4dmatch.yaml --thr=0.55 --test_epoch=$epoch`
 
 For 2D-3D registration:
 
-`cd experiments/2d3dmatr.rgbdv2.stage4.level3.stage1; sh eval.sh 26`
+`cd experiments/2d3dmatr.rgbdv2.stage4.level3.stage1; sh eval.sh $epoch`
 
 ## Results
 #### Quantitative results on the 4DMatch and 4DLoMatch benchmarks. The best results are highlighted in **bold**, and the second-best results are underlined.
