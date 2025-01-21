@@ -206,8 +206,8 @@ class Pipeline(nn.Module):
             noise = (random_number.abs() % 1) * (random_number.abs()/random_number)*1.5  # 将绝对值取模映射到0到1之间
 
             matrix_gt_disturbed = q_sample(x_start=matrix_gt, t=ts, noise=noise, timesteps = self.num_timesteps)
-            matrix_gt_disturbed = matrix_gt_disturbed - matrix_gt_disturbed.min()
             matrix_gt_disturbed = torch.nan_to_num(matrix_gt_disturbed,nan=0)
+            matrix_gt_disturbed = matrix_gt_disturbed - matrix_gt_disturbed.min()            
 
             src_pcd_wrapped, tgt_pcd_wrapped = self.get_warped_from_noising_matching(s_pcd, t_pcd, src_mask, tgt_mask, matrix_gt_disturbed)
             src_feats_noising, tgt_feats_noising, src_pe, tgt_pe = self.denoising_transformer(src_feats_backbone, tgt_feats_backbone, src_pcd_wrapped, tgt_pcd_wrapped, src_mask, tgt_mask, data, timers=timers)
