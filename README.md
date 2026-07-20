@@ -133,11 +133,13 @@ We thank the respective authors of [Lepard](https://github.com/rabbityl/lepard),
 Please consider citing the following BibTeX entry if you find our work helpful for your research.   
 
 ```bibtex
-@article{wu2024diff,
-  title={Diff-Reg v1: Diffusion Matching Model for Registration Problem},
+@inproceedings{wu2024diff,
+  title={Diff-reg: Diffusion model in doubly stochastic matrix space for registration problem},
   author={Wu, Qianliang and Jiang, Haobo and Luo, Lei and Li, Jun and Ding, Yaqing and Xie, Jin and Yang, Jian},
-  journal={arXiv preprint arXiv:2403.19919},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  pages={160--178},
+  year={2024},
+  organization={Springer}
 }
 
 
